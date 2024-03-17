@@ -6,7 +6,7 @@ subtitle: <a href='http://sor.snu.ac.kr'>Seoul National University</a>. Address.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Bldg. 302, Rm. 516-1</p>
