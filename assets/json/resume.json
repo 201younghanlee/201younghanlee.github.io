@@ -46,8 +46,6 @@
       "location": "Seoul, Republic of Korea",
       "studyType": "Ph.D.",
       "area": "Electrical and Computer Engineering",
-      "thesis": "Solving Contemporary Security Problems in Deep Learning",
-      "advisor": "Yunheung Paek",
       "startDate": "2017-03",
       "endDate": "2024-02",
     },
@@ -100,13 +98,10 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Security and Privacy in AI", 
-        "Adversarial Example Attacks", 
-        "Model Extraction Attacks",
-        "Federated Learning",
-        "Differential Privacy",
-        "Multimodal Learning",
-        "Robotics"
+        "Python",
+        "Pytorch",
+        "C", 
+        "MATLAB",
       ]
     }
   ],
