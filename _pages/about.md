@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='http://sor.snu.ac.kr'>Seoul National University</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
 profile:
   align: right
@@ -14,12 +14,12 @@ profile:
     <p> Seoul, Korea 08826</p>
 
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
 I am Postdoctoral Researcher at Seoul National University 
-I received my Ph.D. in Electrical and Computer Engineering from Seoul National University, where I was advised by Prof. Yunheung Paek in 2024.
+I received my Ph.D. in Electrical and Computer Engineering from <a href='http://sor.snu.ac.kr'>Seoul National University</a>, where I was advised by Prof. Yunheung Paek in 2024.
 I received BEng in Electrical and Electronic Engingeering from Imperial College London in 2016
 My research interests include Security and Privacy in AI, Adversarial Example Attacks, Model Extraction Attacks, Federated Learning, Differential Privacy, Multimodal Learning, Robotics
