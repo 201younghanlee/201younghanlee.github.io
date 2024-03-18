@@ -21,5 +21,5 @@ social: true # includes social icons at the bottom of the page
 
 I am Postdoctoral Researcher at Seoul National University <br />
 I received my Ph.D. in Electrical and Computer Engineering from <a href='http://sor.snu.ac.kr'>Seoul National University</a>, where I was advised by Prof. Yunheung Paek in 2024. <br />
-I received BEng in Electrical and Electronic Engingeering from Imperial College London in 2016. <br />
+I received BEng in Electrical and Electronic Engingeering from <a href='https://www.imperial.ac.uk'>Imperial College London</a> in 2016. <br />
 My research interests include Security and Privacy in AI, Adversarial Example Attacks, Model Extraction Attacks, Federated Learning, Differential Privacy, Multimodal Learning, Robotics
