@@ -130,6 +130,38 @@
   
     "projects": [
     {
+      "name": "Motion Tracking System for the Analysis of the Activity and Emotional Patterns of Pets with Deep Learning",
+      "highlights": ["Seoul National University (SNU)"],
+      "startDate": "2024"
+    }, 
+    {
+      "name": "Development of Artificial Intelligence-based Phishing Attack Prevention and Performance Verification Technology",
+      "highlights": ["Seoul Business Agency (SBA)"],
+      "startDate": "2023"
+    }, 
+    {
+      "name": "Deriving Differential Privacy Concepts Applicable to National Statistical Data and Addressing Issues to Ensure the Usefulness of Statistical Analysis",
+      "highlights": ["Statistics Korea (KOSTAT)"],
+      "startDate": "2022"
+    }, 
+    {
+      "name": "Research on Applying Artificial Intelligence on Medical Data",
+      "highlights": ["Ewha Womans University Medical Center (EUMC)"],
+      "startDate": "2022"
+    }, 
+    {
+      "name": "Protecting Images from Cyber Phishing Attacks using De-identification",
+      "highlights": ["Cubig.ai"],
+      "startDate": "2023",
+      "endDate": "2023"
+    }, 
+    {
+      "name": "Developing Differential Privacy based Image Generation Artificial Intelligence",
+      "highlights": ["Cubig.ai"],
+      "startDate": "2023",
+      "endDate": "2023"
+    }, 
+    {
       "name": "Research on Applying Machine Learning on Health and Nursing Data",
       "highlights": ["AI for Healthcare"],
       "startDate": "2019",
