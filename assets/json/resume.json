@@ -14,13 +14,6 @@
     }
   },
   "work": [
-    {
-      "name": "SOR Lab, Seoul National University",
-      "position": "Postdoctoral Researcher",
-      "url": "https://sor.snu.ac.kr",
-      "startDate": "2024",
-      "summary": "Research interests include Security and Privacy in Artificial Intelligence"
-    },
     
     {
       "name": "Department of AI∙Techno Convergence, Soongsil University",
@@ -36,6 +29,13 @@
       "url": "https://www.sungshin.ac.kr/cse/index.do",
       "startDate": "2024",
       "summary": "Teaching Machine Learning-based Communication Networks Security"
+    },
+    {
+      "name": "SOR Lab, Seoul National University",
+      "position": "Postdoctoral Researcher",
+      "url": "https://sor.snu.ac.kr",
+      "startDate": "2024",
+      "summary": "Research interests include Security and Privacy in Artificial Intelligence"
     }
   ],
   
