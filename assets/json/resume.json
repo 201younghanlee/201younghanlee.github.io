@@ -60,26 +60,65 @@
   
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "FLGuard: Byzantine-Robust Federated Learning via Ensemble of Contrastive Models",
+      "publisher": "European Symposium on Research in Computer Security (ESORICS)",
+      "releaseDate": "2023",
+      "url": "https://arxiv.org/abs/2403.02846",
+      "summary": "In this work, we propose FLGuard, a novel byzantine-robust FL method that detects malicious clients and discards malicious local updates by utilizing the contrastive learning technique, which showed a tremendous improvement as a self-supervised learning method."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Exploring Clustered Federated Learning’s Vulnerability against Property Inference Attack",
+      "publisher": "Proceedings of the 26th International Symposium on Research in Attacks, Intrusions and Defenses",
+      "releaseDate": "2023",
+      "url": "https://dl.acm.org/doi/abs/10.1145/3607199.3607218",
+      "summary": "In this paper, we explore the potential risk of unintended property leakage in Clustered Federated Learning (CFL) by subjecting it to both passive and active Property Inference Attacks (PIAs)."
+    },
+    
+    {
+      "name": "Precise extraction of deep learning models via side-channel attacks on edge/endpoint devices",
+      "publisher": "European Symposium on Research in Computer Security",
+      "releaseDate": "2022",
+      "url": "https://arxiv.org/abs/2403.02870",
+      "summary": "Our work provides a comprehensive understanding of such a relationship for the first time and would benefit future MEA studies in both offensive and defensive sides in that they may learn which pieces of information exposed by SCA are more important than the others."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "A Pilot Study of Machine Learning–Based Algorithms to Assist Integrated Care for Older Community-Dwelling Adults",
+      "publisher": "CIN: Computers, Informatics, Nursing",
+      "releaseDate": "2022",
+      "url": "https://journals.lww.com/cinjournal/fulltext/2022/10000/A_Pilot_Study_of_Machine_Learning_Based_Algorithms.9.aspx?casa_token=VahEoMn1eOgAAAAA:uSxmvHr3E9z-ZwHA0sqVBFQn9BgRR86bZnBs_gTi52QgoqgrazkCMD3QM66JToTNNiYYQzb-MuwYq3AOeQw-PpWe",
+      "summary": "Our study aims to explore the possibility of implementing machine learning decision-support algorithms in the integrated care of older community-dwelling adults."
+    },
+    {
+      "name": "Learn2Evade: Learning-based generative model for evading PDF malware classifiers",
+      "publisher": "IEEE Transactions on Artificial Intelligence",
+      "releaseDate": "2021",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9512394",
+      "summary": "We propose a variant of generative adversarial networks that generate evasive variant PDF malware (without any crash), which can be classified as benign by various existing classifiers yet maintaining the original malicious behavior."
+    },
+    {
+      "name": "Hawkware: network intrusion detection based on behavior analysis with ANNs on an IoT device",
+      "publisher": "ACM/IEEE Design Automation Conference (DAC)",
+      "releaseDate": "2020",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9218559",
+      "summary": "In this paper, we propose a novel IDS named Hawkware, a lightweight ANN-based distributed NIDS that runs on an IoT device and analyzes the device's runtime behavior in tandem with its network traffic."
+    },
+        
+    {
+      "name": "Riskim: Toward complete kernel protection with hardware support",
+      "publisher": "Design, Automation & Test in Europe Conference & Exhibition (DATE)",
+      "releaseDate": "2019",
+      "url": "https://ieeexplore.ieee.org/abstract/document/8715277",
+      "summary": "In this paper, we introduce RiskiM, our new hardware-based monitoring platform to ensure kernel integrity from outside the host system."
+    }, 
+    
+    {
+      "name": "Mimicry resilient program behavior modeling with LSTM based branch models",
+      "publisher": "Deep Learning and Security Workshop (DLS 2018)",
+      "releaseDate": "2018",
+      "url": "https://arxiv.org/abs/1803.09171",
+      "summary": "In this paper, we report our preliminary findings in our research to build a mimicry resilient program behavior model that has lesser drawbacks."
     }
+    
   ],
   
     "projects": [
@@ -123,7 +162,7 @@
     }
   ],
   
-  "Research Interests": [
+  "research interests": [
     {
       "name": "Security and Privacy",
       "icon": "fa-solid fa-tag",
