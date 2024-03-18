@@ -178,9 +178,9 @@
     }
   ],
   
-  "research interests": [
+  "interests": [
     {
-      "name": "Security and Privacy",
+      "name": "Research in Security and Privacy",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Security and Privacy in AI", 
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "name": "Deep Learning",
+      "name": "Research in Deep Learning",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Federated Learning",
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "name": "Robotics",
+      "name": "Research in Robotics",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Robotics"
