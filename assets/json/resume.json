@@ -64,7 +64,7 @@
       "publisher": "European Symposium on Research in Computer Security (ESORICS)",
       "releaseDate": "2023",
       "url": "https://arxiv.org/abs/2403.02846",
-      "summary": "In this work, we propose FLGuard, a novel byzantine-robust FL method that detects malicious clients and discards malicious local updates by utilizing the contrastive learning technique, which showed a tremendous improvement as a self-supervised learning method."
+      "summary": "In this work, we propose FLGuard, a novel byzantine-robust FL method that detects malicious clients and discards malicious local updates by utilizing the contrastive learning technique, which showed a tremendous improvement as a self-supervised learning method.",
       "highlights": ["BK21 IF 2"]
     },
     {
@@ -164,16 +164,20 @@
       ]
     }
   ],
+  
   "languages": [
     {
       "language": "Korean",
-      "fluency": "Native speaker"
+      "fluency": "Native speaker",
+      "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent"
+      "fluency": "Fluent",
+      "icon": ""
     }
   ],
+  
   "research interests": [
     {
       "name": "Security and Privacy",
