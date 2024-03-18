@@ -10,8 +10,7 @@
     "location": {
       "address": "Bldg. 302, Rm. 516-1, SNU",
       "postalCode": "08826",
-      "city": "Seoul",
-      "countryCode": "KOR"
+      "city": "Seoul"
     }
   },
   "work": [
@@ -43,7 +42,7 @@
   "education": [
 {
       "institution": "Seoul National University",
-      "location": "Seoul, Republic of Korea",
+      "location": "Seoul, Korea",
       "studyType": "Ph.D.",
       "area": "Electrical and Computer Engineering",
       "startDate": "2017",
@@ -51,66 +50,14 @@
     },
     {
       "institution": "Imperial College London",
-      "location": "London, United Kingdom",
+      "location": "London, UK",
       "studyType": "BEng",
       "area": "Electrical and Electronic Engineering",
       "startDate": "2013",
       "endDate": "2016"
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+  
   "publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
