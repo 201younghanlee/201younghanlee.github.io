@@ -20,7 +20,7 @@
       "position": "Postdoctoral Researcher",
       "url": "https://sor.snu.ac.kr",
       "startDate": "2024-03-04",
-      "summary": "Research interests include Security and Privacy in Artificial Intelligence",
+      "summary": "Research interests include Security and Privacy in Artificial Intelligence"
     },
     
     {
@@ -28,7 +28,7 @@
       "position": "Lecturer",
       "url": "https://aitc.ssu.ac.kr",
       "startDate": "2024-03-04",
-      "summary": "Teaching AI Programming",
+      "summary": "Teaching AI Programming"
     },
     
     {
@@ -36,7 +36,7 @@
       "position": "Lecturer",
       "url": "https://www.sungshin.ac.kr/cse/index.do",
       "startDate": "2024-03-04",
-      "summary": "Teaching Machine Learning-based Communication Networks Security",
+      "summary": "Teaching Machine Learning-based Communication Networks Security"
     }
   ],
   
@@ -47,7 +47,7 @@
       "studyType": "Ph.D.",
       "area": "Electrical and Computer Engineering",
       "startDate": "2017-03",
-      "endDate": "2024-02",
+      "endDate": "2024-02"
     },
     {
       "institution": "Imperial College London",
@@ -55,7 +55,7 @@
       "studyType": "BEng",
       "area": "Electrical and Electronic Engineering",
       "startDate": "2013-09",
-      "endDate": "2016-08",
+      "endDate": "2016-08"
     }
   ],
   
@@ -69,7 +69,7 @@
         "Python",
         "Pytorch",
         "C", 
-        "MATLAB",
+        "MATLAB"
       ]
     }
   ],
@@ -80,7 +80,7 @@
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Fluent"
     }
   ],
   "Research Interests": [
