@@ -26,4 +26,4 @@ Seminars & Teaching Assistants
   - Seminars on Theory of Information Security, ELTEC College of Engineering, Cyber Security, Ewha Womans University
 
 2019
-  - Teaching Assistant in Cyber Security and Blockchain, Department of Engineering, Seoul National University
+  - Teaching Assistant in Cyber Security and Blockchain, Department of Engineering, Seoul National University.
