@@ -28,4 +28,4 @@ Seminars & Teaching Assistants
 2019
   - Teaching Assistant in Cyber Security and Blockchain, Department of Engineering, Seoul National University
 
-{% bibliography %}
+{% teach %}
